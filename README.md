@@ -1,6 +1,6 @@
 <h1> FlexboxProject_NodeStudioTreinamentos </h1>
 
-<img src="url(./img/print.png)">
+<img src="./img/print.png">
 <h2> Project built for studying CSS Flexbox concepts throughout <strong>Node Studio Treinamento</strong> channel´s playlist</h2>
 
 <p>Study and application of CSS Flexbox concepts in a real project. Using the technology´s main properties in practice.</p>
